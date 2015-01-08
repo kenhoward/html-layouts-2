@@ -1,0 +1,60 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	background: rgba(216,216,216,1);
+}
+
+.container {
+	margin: 20px auto;
+	width: 90%;
+	background: rgba(255,255,255,1);
+	padding: 10px;
+}
+
+.firstText {
+	padding: 10px;
+}
+
+.button1 {
+	background: rgba(208,4,27,1);
+	color: #fff;
+	padding: 10px 30px;
+	display: inline-block;
+	margin: 10px;
+}
+
+.button2 {
+	background: rgba(74,144,266,1);
+	color: #fff;
+	padding: 10px 30px;
+	display: inline-block;
+	margin: 10px;
+}
+
+.image {
+	height: 20em;
+	width: 100%;
+}	
+
+.box2 {
+	background: rgba(255,255,255,1);
+	margin: 30px;
+
+}
+
+.secondText {
+	padding: 10px;
+}
+
+.footer {
+	background: rgba(34, 34, 34, 1);
+	display: flex;
+	justify-content: flex-end;
+}
+
+.footerText {
+	display: inline-block;
+	color: rgba(249,249,249,1);
+	padding: 20px;
+
+}

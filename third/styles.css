@@ -1,0 +1,57 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+.header {
+	height: 5%;
+	display: flex;
+	background: rgba(51, 51, 51, 1);
+}
+
+.links {
+	margin-top: 10px;
+	margin-left: 25px;
+	color: rgba(255,255,255,1);
+	font-family: sans-serif;
+	padding: 1px;
+}
+
+.main-wrap {
+	min-height: 85%;
+	max-width: 800px;
+	overflow: hidden;
+	padding: 15px;
+}
+
+.cLeft {
+	min-width: 400px;
+	float: left;
+	width: 50%;
+}
+
+.cRight {
+	min-width: 400px;
+	float: right;
+	width: 50%;
+}
+
+h1 {
+	font-size: 30px;
+	font-family: sans-serif;
+}
+
+p {
+	padding: 5px;
+	line-height: 20px;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
+.footer {
+	height: 8%;
+	background: rgba(51, 51, 51, 1);
+	z-index: 100;
+}
